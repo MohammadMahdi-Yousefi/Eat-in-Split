@@ -1,5 +1,4 @@
-# Click [here](git remote add origin https://github.com/MohammadMahdi-Yousefi/Eat-in-Split.git
-)to see Demo
+# Click [here](https://github.com/MohammadMahdi-Yousefi/Eat-in-Split.git) to see Demo
 
 
 # Getting Started with Create React App
