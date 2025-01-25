@@ -1,4 +1,4 @@
-# Click [here](https://github.com/MohammadMahdi-Yousefi/Eat-in-Split.git) to see Demo
+# Click [here](https://eat-in-split.vercel.app/) to see Demo
 
 
 # Getting Started with Create React App
